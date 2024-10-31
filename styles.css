@@ -109,7 +109,7 @@ video {
 
 /* Slideshow styles */
 .slideshow-container {
-    max-width: 500px;
+    max-width: 1000px;
     height: 500px;
     overflow: hidden;
     padding-left: 0;
